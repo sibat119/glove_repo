@@ -1,0 +1,11 @@
+Attributes
+
+A1| a11, a12, a13
+A2| a21, a22, a23
+A3| a31, a32, a33
+
+Entities
+
+E1| a11, a12, a13
+E2| a21, a22, a23
+E3| a31, a32, a33
